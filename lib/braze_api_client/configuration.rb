@@ -242,6 +242,7 @@ module BrazeClient
                   "rest.iad-04.braze.com",
                   "rest.iad-05.braze.com",
                   "rest.iad-06.braze.com",
+                  "rest.iad-07.braze.com",
                   "rest.iad-08.braze.com",
                   "rest.fra-01.braze.eu",
                   "rest.fra-02.braze.eu"
